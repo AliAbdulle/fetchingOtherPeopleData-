@@ -1,0 +1,11 @@
+#display-container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.listDom{
+    border: 2px solid red;
+    width: 17vw;
+
+    padding: 10px;
+}
